@@ -1,0 +1,45 @@
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe.config
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.pdb
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MyMDIForm.resources
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MenuEkle.resources
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisOlustur.resources
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.pdb
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.EkstraMalzemeEkle.resources
+C:\Users\ozgur\OneDrive\Desktop\BilgeAdamBoost_OOP_Projesi\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisBilgileri.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe.config
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.pdb
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.EkstraMalzemeEkle.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MyMDIForm.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MenuEkle.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisBilgileri.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisOlustur.resources
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Desktop\OOP_Projesi _ 25.02\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.pdb
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.EkstraMalzemeEkle.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MyMDIForm.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.MenuEkle.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisBilgileri.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.SiparisOlustur.resources
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\obj\Debug\OOP_Hamburgerci_Projesi.pdb
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe.config
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.exe
+C:\Users\ozgur\OneDrive\Documents\boost içerikler\ödevler\OOP\OOP_Projesi _ hamburgerci\OOP_Hamburgerci_Projesi\OOP_Hamburgerci_Projesi\bin\Debug\OOP_Hamburgerci_Projesi.pdb
